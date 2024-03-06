@@ -1,0 +1,15 @@
+.table {
+    width: 100%;
+}
+
+.title {
+    padding: 30px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.mat-form-field {
+    font-size: 14px;
+    width: 100%;
+}
