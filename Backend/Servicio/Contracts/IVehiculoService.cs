@@ -6,6 +6,5 @@ namespace Servicio.Contracts
     {
         IQueryable<Vehiculo> GetAllVehiculos();
         Task<Vehiculo> GetById(int id);
-        Task<Vehiculo> DeleteVehiculo(Vehiculo vehiculo);
     }
 }

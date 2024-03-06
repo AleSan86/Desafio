@@ -20,12 +20,6 @@ namespace Servicio.Implementation
         {
             return GetAll().FirstOrDefault(x => x.Id == id);
         }
-        public async Task<Ciudad> DeleteCiudad(Ciudad ciudad)
-        {
-            ciudad.Activo = 0;
-            _repositorio.Update(ciudad);
-            return ciudad;
-        }
 
     }
 }

@@ -21,12 +21,6 @@ namespace Servicio.Implementation
         {
             return GetAll().FirstOrDefault(x => x.Id == id);
         }
-        public async Task<Vehiculo> DeleteVehiculo(Vehiculo vehiculo)
-        {
-            vehiculo.Activo = 0;
-            _repositorio.Update(vehiculo);
-            return vehiculo;
-        }
 
     }
 }

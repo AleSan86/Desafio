@@ -6,6 +6,5 @@ namespace Servicio.Contracts
     {
         IQueryable<Ciudad> GetAllCiudades();
         Task<Ciudad> GetById(int id);
-        Task<Ciudad> DeleteCiudad(Ciudad ciudad);
     }
 }
