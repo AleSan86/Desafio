@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendAPI", "BackendAPI.csproj", "{53F1F45F-8418-419D-9376-5F49FAAFA9E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicio", "..\Servicio\Servicio.csproj", "{444DBFBD-3536-4B47-8FB1-F85AA4224441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "..\Dominio\Dominio.csproj", "{FE5E196F-1D12-4C8A-A332-722E1E0594F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53F1F45F-8418-419D-9376-5F49FAAFA9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F1F45F-8418-419D-9376-5F49FAAFA9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F1F45F-8418-419D-9376-5F49FAAFA9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F1F45F-8418-419D-9376-5F49FAAFA9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444DBFBD-3536-4B47-8FB1-F85AA4224441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444DBFBD-3536-4B47-8FB1-F85AA4224441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444DBFBD-3536-4B47-8FB1-F85AA4224441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444DBFBD-3536-4B47-8FB1-F85AA4224441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5E196F-1D12-4C8A-A332-722E1E0594F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5E196F-1D12-4C8A-A332-722E1E0594F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5E196F-1D12-4C8A-A332-722E1E0594F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5E196F-1D12-4C8A-A332-722E1E0594F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D12B216B-42C7-40DA-99AB-151BE517261D}
+	EndGlobalSection
+EndGlobal
