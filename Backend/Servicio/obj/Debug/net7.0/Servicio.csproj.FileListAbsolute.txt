@@ -1,0 +1,16 @@
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\bin\Debug\net7.0\Migrations\20240303155718_Inicial_Data.sql
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\bin\Debug\net7.0\Servicio.deps.json
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\bin\Debug\net7.0\Servicio.dll
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\bin\Debug\net7.0\Servicio.pdb
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\bin\Debug\net7.0\Dominio.dll
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\obj\Debug\net7.0\Servicio.csproj.AssemblyReference.cache
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\obj\Debug\net7.0\Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\obj\Debug\net7.0\Servicio.AssemblyInfoInputs.cache
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\obj\Debug\net7.0\Servicio.AssemblyInfo.cs
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\obj\Debug\net7.0\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\obj\Debug\net7.0\Servicio.csproj.CopyComplete
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\obj\Debug\net7.0\Servicio.dll
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\obj\Debug\net7.0\refint\Servicio.dll
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\obj\Debug\net7.0\Servicio.pdb
+C:\Users\NyA\Desktop\Proyecto\Backend\Servicio\obj\Debug\net7.0\ref\Servicio.dll
